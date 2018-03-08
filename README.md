@@ -28,7 +28,17 @@ This repository contains notebooks and data files used for the workshop.
 Please get familiar with Numpy indexing before the workshop by reading and running
 the notebook:
 
-- [Numpy Primer](https://github.com/tritemio/Jupyter-Python-Workshop-STROBE-2018-02-26/blob/master/Numpy%20primer.ipynb)
+- [Numpy Primer](https://github.com/tritemio/Jupyter-Python-Workshop-STROBE-2018-02-26/blob/master/Numpy%20primer.ipynb): a short primer on numpy
+- [Fluorescence Blinking Analysis](https://github.com/tritemio/Jupyter-Python-Workshop-STROBE-2018-02-26/blob/master/Fluorescence%20Blinking%20Analysis.ipynb): the notebook used to analyze the fluorescence video.
 
-You will find the same notebook in the Jupyter sever after you login.
+You will find the same notebooks in the Jupyter sever after you login.
+
+## Acknowledgments
+
+Many thanks to Xiyu Yi for providing the simulated data using for this workshop.
+
+## Credits
+
+The material here posted is released in Public Domain (CC0). For the material referenced
+(for example the cheatsheets) check the license of the original material (links in the notebooks).
 
