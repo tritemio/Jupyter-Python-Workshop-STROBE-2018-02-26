@@ -35,7 +35,7 @@ You will find the same notebooks in the Jupyter sever after you login.
 
 ## Acknowledgments
 
-Many thanks to Xiyu Yi for providing the simulated data using for this workshop.
+Many thanks to Xiyu Yi for providing the simulated data used for this workshop.
 
 ## Credits
 
